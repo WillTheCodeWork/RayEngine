@@ -59,8 +59,8 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/lolgg313/RayEngine.git
+    cd RayEngine
     ```
     2.  **Install Dependencies:**
     ```bash
@@ -85,4 +85,4 @@
 Run the editor using Python:
 
 ```bash
-python your_main_script_name.py
+python 'RayEngine Ultra Edition.py'
