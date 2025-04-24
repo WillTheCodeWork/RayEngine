@@ -68,7 +68,7 @@
     ```
     * *Note:* You need to create a `requirements.txt` file with the following content:
         ```txt
-        raylibpy
+        raylib
         numpy
         pygame
         Pillow
